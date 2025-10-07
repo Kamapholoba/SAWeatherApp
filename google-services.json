@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "183735398173",
+    "project_id": "saweatherplus-f24ea",
+    "storage_bucket": "saweatherplus-f24ea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183735398173:android:dc2b8a40bb0b2fe656bbf4",
+        "android_client_info": {
+          "package_name": "com.saweatherplus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvsK93C17Xf3JfNYvJSidgk-utpUMuBv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
