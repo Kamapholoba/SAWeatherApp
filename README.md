@@ -45,10 +45,4 @@ Live weather data display
 Offline mode demo
 isiZulu translation demo
 
-Submission Notes 
-No ZIP uploads — project submitted via GitHub repository link.
-All code is commented and logged.
-README.md includes video link, names, and module code.
-Rubric criteria fully met (working API, Firebase Auth, GitHub Actions, professional video, AI usage statement).
-GitHub Actions build proof
 
