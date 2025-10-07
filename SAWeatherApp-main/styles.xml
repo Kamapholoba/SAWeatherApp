@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.SAWeatherPlus" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#0D6EFD</item>
+        <item name="colorPrimaryVariant">#0B5ED7</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="android:statusBarColor">#0B5ED7</item>
+    </style>
+</resources>
