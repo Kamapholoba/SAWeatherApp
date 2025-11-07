@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SA Isimo Sezulu+</string>
+    <string name="login">Ngena</string>
+    <string name="register">Bhalisa</string>
+    <string name="email">I-imeyili</string>
+    <string name="password">Iphasiwedi</string>
+    <string name="google_sign_in">Ngena nge-Google</string>
+    <string name="settings">Izilungiselelo</string>
+    <string name="language_changed">Ulimi lushintshile. Ukuqalisa kabusha uhlelo...</string>
+    <string name="notifications_updated">Izaziso sezibuyekeziwe</string>
+    <string name="default_web_client_id">REPLACE_WITH_WEB_CLIENT_ID</string>
+</resources>
