@@ -26,8 +26,8 @@ Kotlin • Firebase • RoomDB • Retrofit • GitHub Actions • Android Studi
 1. Clone this repository.  
 2. Open it in Android Studio.  
 3. Add your Firebase `google-services.json` file to the `app/` folder.  
-4. Add your OpenWeather API key in `build.gradle`.  
-5. Build and run the app on a real Android device.
+4. Add your OpenWeather API key=“1c3b809a39f5e539cf830512e2683a"in `build.gradle`.  
+6. Build and run the app on a real Android device.
 
 ## 🧪 Release Notes
 - Added Firebase Authentication with Google Sign-In.  
